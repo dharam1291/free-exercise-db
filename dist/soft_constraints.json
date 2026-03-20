@@ -1,0 +1,552 @@
+{
+  "concepts": {
+    "STRENGTH_TRAINING": [
+      "strength",
+      "maximal_strength",
+      "overload",
+      "mass_builder",
+      "compound",
+      "bench_press",
+      "squat",
+      "deadlift",
+      "press",
+      "pull",
+      "push",
+      "row"
+    ],
+    "EXPLOSIVE_POWER": [
+      "explosive",
+      "plyometric",
+      "jump",
+      "box_jump",
+      "power_clean",
+      "snatch",
+      "jerk",
+      "sprint",
+      "ballistic",
+      "triple_extension",
+      "explosive_pull"
+    ],
+    "CARDIO_CONDITIONING": [
+      "cardio",
+      "aerobic",
+      "conditioning",
+      "treadmill",
+      "cycling",
+      "running",
+      "stairmaster",
+      "jump_rope",
+      "fat_loss",
+      "endurance",
+      "walking"
+    ],
+    "MOBILITY_FLEXIBILITY": [
+      "mobility",
+      "stretching",
+      "flexibility",
+      "dynamic_stretch",
+      "PNF",
+      "hip_mobility",
+      "ankle_mobility",
+      "shoulder_mobility",
+      "thoracic",
+      "lat_stretch"
+    ],
+    "INJURY_PREVENTION": [
+      "rehab",
+      "prehab",
+      "rehabilitation",
+      "injury_prevention",
+      "joint_health",
+      "rotator_cuff",
+      "shoulder_health",
+      "shoulder_safe",
+      "back_health",
+      "wrist_friendly"
+    ],
+    "POSTURE_STABILITY": [
+      "posture",
+      "balance",
+      "stability",
+      "core_engagement",
+      "anti_rotation",
+      "anti_extension",
+      "scapular",
+      "scapula",
+      "scapular_elevation"
+    ],
+    "CORE_FOCUS": [
+      "abs",
+      "abdominals",
+      "obliques",
+      "plank",
+      "plank_variation",
+      "crunch",
+      "reverse_crunch",
+      "ab_wheel",
+      "core",
+      "transverse_abdominis"
+    ],
+    "LOWER_BODY_FOCUS": [
+      "legs",
+      "glutes",
+      "quadriceps",
+      "hamstrings",
+      "calves",
+      "squat",
+      "lunge",
+      "leg_press",
+      "step_up",
+      "bulgarian_split_squat"
+    ],
+    "UPPER_BODY_FOCUS": [
+      "chest",
+      "back",
+      "shoulders",
+      "arms",
+      "upper_back",
+      "lats",
+      "triceps",
+      "biceps",
+      "deltoid"
+    ],
+    "FULL_BODY": [
+      "full_body",
+      "compound",
+      "hybrid_movement",
+      "thruster",
+      "clean_and_jerk"
+    ],
+    "HOME_WORKOUT": [
+      "home_workout",
+      "home_friendly",
+      "no_equipment"
+    ],
+    "GYM_WORKOUT": [
+      "barbell",
+      "dumbbell",
+      "machine",
+      "cable",
+      "smith_machine",
+      "trap_bar",
+      "ez_bar",
+      "bands"
+    ],
+    "LOW_IMPACT": [
+      "low_impact",
+      "gentle",
+      "safe",
+      "spine_friendly",
+      "joint_friendly",
+      "knee_friendly"
+    ],
+    "HIGH_INTENSITY": [
+      "metabolic",
+      "conditioning",
+      "high_pull",
+      "sled",
+      "battle_ropes"
+    ],
+    "TECHNIQUE_SKILL": [
+      "technique",
+      "positional_work",
+      "strict",
+      "strict_form",
+      "olympic_lift",
+      "snatch_variation",
+      "clean",
+      "jerk"
+    ],
+    "FUNCTIONAL_TRAINING": [
+      "functional",
+      "athletic",
+      "sport_specific",
+      "carry",
+      "sled",
+      "strongman",
+      "sandbag",
+      "yoke"
+    ],
+    "BODYWEIGHT": [
+      "bodyweight",
+      "calisthenics",
+      "pull_up",
+      "push_up",
+      "muscle_up",
+      "chin_up",
+      "dip",
+      "rings"
+    ],
+    "ISOLATION": [
+      "isolation",
+      "curl",
+      "preacher",
+      "kickback",
+      "triceps",
+      "biceps",
+      "lateral_raise",
+      "front_raise"
+    ],
+    "SPEED_AGILITY": [
+      "sprint",
+      "agility",
+      "acceleration",
+      "footwork",
+      "sprint_drill",
+      "cone_hops",
+      "hurdles"
+    ],
+    "RECOVERY": [
+      "cooldown",
+      "recovery",
+      "foam_roll",
+      "foam_rolling",
+      "SMR",
+      "self_myofascial_release",
+      "stretch",
+      "breathing"
+    ]
+  },
+  "suitableFor": {
+    "STRENGTH_GAIN": [
+      "strength",
+      "strength_gain",
+      "maximal_strength",
+      "progressive_overload",
+      "overload_training",
+      "pressing_strength",
+      "pulling_strength",
+      "upper_body_strength"
+    ],
+    "MUSCLE_HYPERTROPHY": [
+      "muscle_gain",
+      "hypertrophy",
+      "quadriceps_hypertrophy",
+      "abdominal_hypertrophy"
+    ],
+    "MUSCLE_DEFINITION": [
+      "muscle_definition",
+      "ab_definition",
+      "abdominal_definition",
+      "chest_definition",
+      "arm_definition",
+      "waist_definition",
+      "aesthetics",
+      "toning"
+    ],
+    "ENDURANCE": [
+      "endurance",
+      "muscle_endurance",
+      "core_endurance",
+      "leg_endurance",
+      "abdominal_endurance",
+      "strength_endurance"
+    ],
+    "CARDIO_FITNESS": [
+      "cardio",
+      "cardiovascular_health",
+      "fat_loss",
+      "weight_loss",
+      "low_impact_cardio"
+    ],
+    "EXPLOSIVE_POWER": [
+      "explosive_power",
+      "power",
+      "power_development",
+      "vertical_jump",
+      "speed_strength",
+      "rotational_power"
+    ],
+    "SPEED_AGILITY": [
+      "speed",
+      "speed_training",
+      "speed_development",
+      "speed_work",
+      "sprint_speed",
+      "agility",
+      "coordination"
+    ],
+    "MOBILITY_FLEXIBILITY": [
+      "mobility",
+      "flexibility",
+      "hip_mobility",
+      "ankle_mobility",
+      "shoulder_mobility",
+      "spinal_mobility",
+      "hamstring_mobility",
+      "groin_mobility",
+      "hip_flexibility"
+    ],
+    "STABILITY_BALANCE": [
+      "stability",
+      "core_stability",
+      "lateral_stability",
+      "ankle_stability",
+      "scapular_stability",
+      "balance",
+      "balance_training"
+    ],
+    "INJURY_PREVENTION_REHAB": [
+      "injury_prevention",
+      "prehab",
+      "rehab",
+      "rehabilitation",
+      "joint_health",
+      "rotator_cuff_prehab",
+      "back_rehab",
+      "shoulder_rehab"
+    ],
+    "RECOVERY_RELIEF": [
+      "recovery",
+      "active_recovery",
+      "pain_relief",
+      "stress_relief",
+      "lower_back_relief",
+      "sciatica_relief",
+      "spinal_decompression"
+    ],
+    "POSTURE_CORRECTION": [
+      "posture",
+      "posture_improvement",
+      "posture_correction",
+      "desk_worker_relief"
+    ],
+    "CORE_TRAINING": [
+      "core_strength",
+      "ab_development",
+      "abdominal_development",
+      "core_mobility",
+      "advanced_core_training"
+    ],
+    "UPPER_BODY_DEVELOPMENT": [
+      "chest_development",
+      "back_development",
+      "lat_development",
+      "lat_width",
+      "back_thickness",
+      "shoulder_development",
+      "shoulder_strength",
+      "shoulder_definition"
+    ],
+    "LOWER_BODY_DEVELOPMENT": [
+      "leg_development",
+      "glute_development",
+      "glute_strength",
+      "quad_development",
+      "calf_development",
+      "hamstring_development"
+    ],
+    "ARM_DEVELOPMENT": [
+      "arm_development",
+      "arm_size",
+      "arm_strength",
+      "arm_width",
+      "biceps_development",
+      "triceps_development",
+      "forearm_development",
+      "forearm_hypertrophy"
+    ],
+    "TECHNIQUE_SKILL": [
+      "technique_development",
+      "technique_work",
+      "technique_learning",
+      "clean_technique",
+      "snatch_technique",
+      "front_squat_technique",
+      "olympic_lift_learning",
+      "hip_hinge_learning"
+    ],
+    "FUNCTIONAL_ATHLETIC": [
+      "functional_training",
+      "functional_fitness",
+      "functional_strength",
+      "athletic_performance",
+      "athletic_testing",
+      "sport_specific",
+      "military_training",
+      "contact_sport_prep"
+    ],
+    "BODYWEIGHT_TRAINING": [
+      "bodyweight_training",
+      "advanced_bodyweight",
+      "bodyweight_mastery",
+      "calisthenics",
+      "gymnastics"
+    ],
+    "LOW_IMPACT_SAFE": [
+      "low_impact_cardio",
+      "knee_friendly_training",
+      "joint_friendly_pressing",
+      "shoulder_friendly_pressing"
+    ],
+    "ACTIVATION_CORRECTION": [
+      "activation",
+      "glute_activation",
+      "muscle_activation",
+      "imbalance_correction",
+      "muscle_balance"
+    ],
+    "GENERAL_FITNESS": [
+      "general_fitness",
+      "beginner",
+      "beginner_training",
+      "beginner_strength",
+      "beginner_deadlift"
+    ],
+    "MENTAL_WELLBEING": [
+      "mental_health",
+      "stress_relief"
+    ]
+  },
+  "avoidGroups": {
+    "SHOULDER_CONDITIONS": [
+      "shoulder_injury",
+      "rotator_cuff_injury",
+      "rotator_cuff_tear",
+      "acute_rotator_cuff_tear",
+      "shoulder_pain",
+      "shoulder_instability",
+      "shoulder_dislocation",
+      "shoulder_dislocation_history",
+      "shoulder_impingement",
+      "acute_shoulder_injury",
+      "acute_shoulder_pain",
+      "acute_shoulder_dislocation",
+      "anterior_shoulder_dislocation",
+      "anterior_shoulder_instability",
+      "anterior_shoulder_pain"
+    ],
+    "ELBOW_CONDITIONS": [
+      "elbow_injury",
+      "elbow_pain",
+      "elbow_tendinitis",
+      "tennis_elbow",
+      "lateral_epicondylitis",
+      "acute_elbow_injury",
+      "acute_elbow_pain",
+      "elbow_hyperextension"
+    ],
+    "WRIST_HAND_CONDITIONS": [
+      "wrist_injury",
+      "wrist_pain",
+      "wrist_fracture",
+      "acute_wrist_pain",
+      "acute_wrist_fracture",
+      "carpal_tunnel",
+      "forearm_injury",
+      "grip_injury",
+      "grip_weakness",
+      "grip_issues",
+      "finger_injury",
+      "wrist_inflexibility"
+    ],
+    "BICEP_TRICEP_CONDITIONS": [
+      "bicep_tendinitis",
+      "bicep_tendon_injury",
+      "biceps_tendon_injury",
+      "bicep_tear",
+      "bicep_tear_risk"
+    ],
+    "CHEST_RIB_CONDITIONS": [
+      "pec_injury",
+      "rib_fracture",
+      "sternoclavicular_pain"
+    ],
+    "LOWER_BACK_CONDITIONS": [
+      "lower_back_pain",
+      "acute_lower_back_pain",
+      "acute_back_pain",
+      "acute_back_spasm",
+      "lower_back_injury"
+    ],
+    "SPINE_DISC_CONDITIONS": [
+      "herniated_disc",
+      "disc_herniation",
+      "spinal_disc_issues",
+      "herniated_cervical_disc",
+      "cervical_disc_injury",
+      "cervical_disc_issues",
+      "spinal_stenosis",
+      "spinal_instability",
+      "acute_spinal_fracture"
+    ],
+    "NECK_CONDITIONS": [
+      "neck_injury",
+      "neck_pain",
+      "neck_instability",
+      "thoracic_kyphosis",
+      "thoracic_stiffness",
+      "scoliosis"
+    ],
+    "HIP_CONDITIONS": [
+      "hip_injury",
+      "hip_pain",
+      "acute_hip_injury",
+      "acute_hip_pain",
+      "hip_labral_tear",
+      "hip_impingement",
+      "anterior_hip_pain"
+    ],
+    "HIP_FLEXOR_GROIN_CONDITIONS": [
+      "hip_flexor_injury",
+      "hip_flexor_strain",
+      "severe_hip_flexor_strain",
+      "hip_flexor_tightness",
+      "severe_hip_flexor_tightness",
+      "groin_injury",
+      "groin_strain",
+      "hip_adductor_strain"
+    ],
+    "KNEE_CONDITIONS": [
+      "knee_injury",
+      "knee_pain",
+      "acute_knee_injury",
+      "severe_knee_pain",
+      "severe_knee_arthritis",
+      "ACL_injury",
+      "ACL_recovery",
+      "posterior_knee_pain",
+      "patellar_tendinitis"
+    ],
+    "HAMSTRING_CONDITIONS": [
+      "hamstring_injury",
+      "hamstring_strain",
+      "hamstring_strain_acute",
+      "acute_hamstring_strain",
+      "hamstring_tear",
+      "hamstring_tightness"
+    ],
+    "ANKLE_FOOT_CONDITIONS": [
+      "ankle_injury",
+      "acute_ankle_injury",
+      "ankle_instability",
+      "ankle_mobility_issues",
+      "achilles_tendinitis",
+      "achilles_tendon_issues",
+      "achilles_tendon_rupture",
+      "acute_achilles_injury",
+      "plantar_fasciitis",
+      "acute_plantar_fasciitis_flare",
+      "shin_splints",
+      "stress_fracture"
+    ],
+    "CARDIOVASCULAR_CONDITIONS": [
+      "cardiovascular_issues",
+      "cardiovascular_conditions",
+      "high_blood_pressure",
+      "blood_pressure_issues",
+      "deep_vein_thrombosis",
+      "blood_clot_risk"
+    ],
+    "BALANCE_NEURO_CONDITIONS": [
+      "poor_balance",
+      "balance_issues",
+      "balance_disorders",
+      "severe_balance_disorders"
+    ],
+    "SPECIAL_CONDITIONS": [
+      "pregnancy",
+      "abdominal_hernia"
+    ]
+  }
+}
