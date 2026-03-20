@@ -1,0 +1,2623 @@
+[ {
+  "id" : "3_4_Sit-Up",
+  "goal" : "muscle"
+}, {
+  "id" : "90_90_Hamstring",
+  "goal" : "muscle"
+}, {
+  "id" : "Ab_Crunch_Machine",
+  "goal" : "endurance"
+}, {
+  "id" : "Ab_Roller",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Adductor",
+  "goal" : "muscle"
+}, {
+  "id" : "Adductor_Groin",
+  "goal" : "muscle"
+}, {
+  "id" : "Advanced_Kettlebell_Windmill",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Air_Bike",
+  "goal" : "endurance"
+}, {
+  "id" : "All_Fours_Quad_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Alternate_Hammer_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Alternate_Heel_Touchers",
+  "goal" : "endurance"
+}, {
+  "id" : "Alternate_Incline_Dumbbell_Curl",
+  "goal" : "flexibility"
+}, {
+  "id" : "Alternate_Leg_Diagonal_Bound",
+  "goal" : "muscle"
+}, {
+  "id" : "Alternating_Cable_Shoulder_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Alternating_Deltoid_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Alternating_Floor_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Alternating_Hang_Clean",
+  "goal" : "muscle"
+}, {
+  "id" : "Alternating_Kettlebell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Alternating_Kettlebell_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "Alternating_Renegade_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Ankle_Circles",
+  "goal" : "flexibility"
+}, {
+  "id" : "Ankle_On_The_Knee",
+  "goal" : "flexibility"
+}, {
+  "id" : "Anterior_Tibialis-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Anti-Gravity_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Arm_Circles",
+  "goal" : "muscle"
+}, {
+  "id" : "Arnold_Dumbbell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Around_The_Worlds",
+  "goal" : "muscle"
+}, {
+  "id" : "Atlas_Stone_Trainer",
+  "goal" : "muscle"
+}, {
+  "id" : "Atlas_Stones",
+  "goal" : "muscle"
+}, {
+  "id" : "Axle_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Back_Flyes_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Backward_Drag",
+  "goal" : "muscle"
+}, {
+  "id" : "Backward_Medicine_Ball_Throw",
+  "goal" : "muscle"
+}, {
+  "id" : "Balance_Board",
+  "goal" : "muscle"
+}, {
+  "id" : "Ball_Leg_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Band_Assisted_Pull-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Band_Good_Morning",
+  "goal" : "muscle"
+}, {
+  "id" : "Band_Good_Morning_Pull_Through",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Band_Hip_Adductions",
+  "goal" : "muscle"
+}, {
+  "id" : "Band_Pull_Apart",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Band_Skull_Crusher",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Ab_Rollout",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Ab_Rollout_-_On_Knees",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Bench_Press_-_Medium_Grip",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Curls_Lying_Against_An_Incline",
+  "goal" : "flexibility"
+}, {
+  "id" : "Barbell_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Full_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Glute_Bridge",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Guillotine_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Hack_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Hip_Thrust",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Incline_Bench_Press_-_Medium_Grip",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Incline_Shoulder_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Lunge",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Rear_Delt_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Rollout_from_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Seated_Calf_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Shoulder_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Shrug",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Shrug_Behind_The_Back",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Side_Bend",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Side_Split_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Squat_To_A_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Step_Ups",
+  "goal" : "muscle"
+}, {
+  "id" : "Barbell_Walking_Lunge",
+  "goal" : "muscle"
+}, {
+  "id" : "Battling_Ropes",
+  "goal" : "endurance"
+}, {
+  "id" : "Bear_Crawl_Sled_Drags",
+  "goal" : "muscle"
+}, {
+  "id" : "Behind_Head_Chest_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Bench_Dips",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Bench_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Bench_Press_-_Powerlifting",
+  "goal" : "muscle"
+}, {
+  "id" : "Bench_Press_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Bench_Press_with_Chains",
+  "goal" : "muscle"
+}, {
+  "id" : "Bench_Sprint",
+  "goal" : "muscle"
+}, {
+  "id" : "Bent-Arm_Barbell_Pullover",
+  "goal" : "flexibility"
+}, {
+  "id" : "Bent-Arm_Dumbbell_Pullover",
+  "goal" : "flexibility"
+}, {
+  "id" : "Bent-Knee_Hip_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Bent_Over_Barbell_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Bent_Over_Low-Pulley_Side_Lateral",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Bent_Over_One-Arm_Long_Bar_Row",
+  "goal" : "flexibility"
+}, {
+  "id" : "Bent_Over_Two-Arm_Long_Bar_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "Bent_Over_Two-Dumbbell_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
+  "goal" : "muscle"
+}, {
+  "id" : "Bent_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Bicycling",
+  "goal" : "endurance"
+}, {
+  "id" : "Bicycling_Stationary",
+  "goal" : "endurance"
+}, {
+  "id" : "Board_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Body-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Body_Tricep_Press",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Bodyweight_Flyes",
+  "goal" : "flexibility"
+}, {
+  "id" : "Bodyweight_Mid_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Bodyweight_Squat",
+  "goal" : "endurance"
+}, {
+  "id" : "Bodyweight_Walking_Lunge",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Bosu_Ball_Cable_Crunch_With_Side_Bends",
+  "goal" : "endurance"
+}, {
+  "id" : "Bottoms-Up_Clean_From_The_Hang_Position",
+  "goal" : "muscle"
+}, {
+  "id" : "Bottoms_Up",
+  "goal" : "muscle"
+}, {
+  "id" : "Box_Jump_Multiple_Response",
+  "goal" : "muscle"
+}, {
+  "id" : "Box_Skip",
+  "goal" : "muscle"
+}, {
+  "id" : "Box_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Box_Squat_with_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Box_Squat_with_Chains",
+  "goal" : "muscle"
+}, {
+  "id" : "Brachialis-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Bradford_Rocky_Presses",
+  "goal" : "endurance"
+}, {
+  "id" : "Butt-Ups",
+  "goal" : "muscle"
+}, {
+  "id" : "Butt_Lift_Bridge",
+  "goal" : "muscle"
+}, {
+  "id" : "Butterfly",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Chest_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Crossover",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Cable_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Cable_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Cable_Deadlifts",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Hammer_Curls_-_Rope_Attachment",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Hip_Adduction",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Incline_Pushdown",
+  "goal" : "flexibility"
+}, {
+  "id" : "Cable_Incline_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Cable_Internal_Rotation",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Iron_Cross",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Judo_Flip",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Lying_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_One_Arm_Tricep_Extension",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Cable_Preacher_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Rear_Delt_Fly",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Reverse_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Cable_Rope_Overhead_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Cable_Rope_Rear-Delt_Rows",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Russian_Twists",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Seated_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Cable_Seated_Lateral_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Shoulder_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Cable_Shrugs",
+  "goal" : "flexibility"
+}, {
+  "id" : "Cable_Wrist_Curl",
+  "goal" : "endurance"
+}, {
+  "id" : "Calf-Machine_Shoulder_Shrug",
+  "goal" : "muscle"
+}, {
+  "id" : "Calf_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Calf_Press_On_The_Leg_Press_Machine",
+  "goal" : "muscle"
+}, {
+  "id" : "Calf_Raise_On_A_Dumbbell",
+  "goal" : "muscle"
+}, {
+  "id" : "Calf_Raises_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Calf_Stretch_Elbows_Against_Wall",
+  "goal" : "flexibility"
+}, {
+  "id" : "Calf_Stretch_Hands_Against_Wall",
+  "goal" : "flexibility"
+}, {
+  "id" : "Calves-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Car_Deadlift",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Car_Drivers",
+  "goal" : "endurance"
+}, {
+  "id" : "Carioca_Quick_Step",
+  "goal" : "muscle"
+}, {
+  "id" : "Cat_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Catch_and_Overhead_Throw",
+  "goal" : "muscle"
+}, {
+  "id" : "Chain_Handle_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Chain_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Chair_Leg_Extended_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Chair_Lower_Back_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Chair_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Chair_Upper_Body_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Chest_And_Front_Of_Shoulder_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Chest_Push_from_3_point_stance",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Chest_Push_multiple_response",
+  "goal" : "endurance"
+}, {
+  "id" : "Chest_Push_single_response",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Chest_Push_with_Run_Release",
+  "goal" : "endurance"
+}, {
+  "id" : "Chest_Stretch_on_Stability_Ball",
+  "goal" : "flexibility"
+}, {
+  "id" : "Childs_Pose",
+  "goal" : "flexibility"
+}, {
+  "id" : "Chin-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Chin_To_Chest_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Circus_Bell",
+  "goal" : "muscle"
+}, {
+  "id" : "Clean",
+  "goal" : "muscle"
+}, {
+  "id" : "Clean_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Clean_Pull",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Clean_Shrug",
+  "goal" : "muscle"
+}, {
+  "id" : "Clean_and_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "Clean_and_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Clean_from_Blocks",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Clock_Push-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Close-Grip_Barbell_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Close-Grip_Dumbbell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Close-Grip_EZ-Bar_Curl_with_Band",
+  "goal" : "muscle"
+}, {
+  "id" : "Close-Grip_EZ-Bar_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Close-Grip_EZ_Bar_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Close-Grip_Front_Lat_Pulldown",
+  "goal" : "flexibility"
+}, {
+  "id" : "Close-Grip_Push-Up_off_of_a_Dumbbell",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Close-Grip_Standing_Barbell_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Cocoons",
+  "goal" : "endurance"
+}, {
+  "id" : "Conans_Wheel",
+  "goal" : "endurance"
+}, {
+  "id" : "Concentration_Curls",
+  "goal" : "muscle"
+}, {
+  "id" : "Cross-Body_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Cross_Body_Hammer_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Cross_Over_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Crossover_Reverse_Lunge",
+  "goal" : "flexibility"
+}, {
+  "id" : "Crucifix",
+  "goal" : "endurance"
+}, {
+  "id" : "Crunch_-_Hands_Overhead",
+  "goal" : "endurance"
+}, {
+  "id" : "Crunch_-_Legs_On_Exercise_Ball",
+  "goal" : "endurance"
+}, {
+  "id" : "Crunches",
+  "goal" : "endurance"
+}, {
+  "id" : "Cuban_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Dancers_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Dead_Bug",
+  "goal" : "muscle"
+}, {
+  "id" : "Deadlift_with_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Deadlift_with_Chains",
+  "goal" : "muscle"
+}, {
+  "id" : "Decline_Barbell_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Decline_Close-Grip_Bench_To_Skull_Crusher",
+  "goal" : "muscle"
+}, {
+  "id" : "Decline_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Decline_Dumbbell_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Decline_Dumbbell_Flyes",
+  "goal" : "flexibility"
+}, {
+  "id" : "Decline_Dumbbell_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Decline_EZ_Bar_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Decline_Oblique_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Decline_Push-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Decline_Reverse_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Decline_Smith_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Deficit_Deadlift",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Depth_Jump_Leap",
+  "goal" : "muscle"
+}, {
+  "id" : "Dip_Machine",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Dips_-_Chest_Version",
+  "goal" : "flexibility"
+}, {
+  "id" : "Dips_-_Triceps_Version",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Donkey_Calf_Raises",
+  "goal" : "flexibility"
+}, {
+  "id" : "Double_Kettlebell_Alternating_Hang_Clean",
+  "goal" : "endurance"
+}, {
+  "id" : "Double_Kettlebell_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "Double_Kettlebell_Push_Press",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Double_Kettlebell_Snatch",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Double_Kettlebell_Windmill",
+  "goal" : "muscle"
+}, {
+  "id" : "Double_Leg_Butt_Kick",
+  "goal" : "muscle"
+}, {
+  "id" : "Downward_Facing_Balance",
+  "goal" : "endurance"
+}, {
+  "id" : "Drag_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Drop_Push",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Dumbbell_Alternate_Bicep_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Bench_Press_with_Neutral_Grip",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Bicep_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Clean",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Floor_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Flyes",
+  "goal" : "flexibility"
+}, {
+  "id" : "Dumbbell_Incline_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Dumbbell_Incline_Shoulder_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Lunges",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Lying_Pronation",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Lying_Rear_Lateral_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Lying_Supination",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_One-Arm_Shoulder_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_One-Arm_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Dumbbell_One-Arm_Upright_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Prone_Incline_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Rear_Lunge",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Scaption",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Seated_Box_Jump",
+  "goal" : "flexibility"
+}, {
+  "id" : "Dumbbell_Seated_One-Leg_Calf_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Shoulder_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Shrug",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Side_Bend",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Squat_To_A_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Step_Ups",
+  "goal" : "muscle"
+}, {
+  "id" : "Dumbbell_Tricep_Extension_-Pronated_Grip",
+  "goal" : "muscle"
+}, {
+  "id" : "Dynamic_Back_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Dynamic_Chest_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "EZ-Bar_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "EZ-Bar_Skullcrusher",
+  "goal" : "muscle"
+}, {
+  "id" : "Elbow_Circles",
+  "goal" : "muscle"
+}, {
+  "id" : "Elbow_to_Knee",
+  "goal" : "endurance"
+}, {
+  "id" : "Elbows_Back",
+  "goal" : "flexibility"
+}, {
+  "id" : "Elevated_Back_Lunge",
+  "goal" : "muscle"
+}, {
+  "id" : "Elevated_Cable_Rows",
+  "goal" : "muscle"
+}, {
+  "id" : "Elliptical_Trainer",
+  "goal" : "endurance"
+}, {
+  "id" : "Exercise_Ball_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Exercise_Ball_Pull-In",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Extended_Range_One-Arm_Kettlebell_Floor_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "External_Rotation",
+  "goal" : "muscle"
+}, {
+  "id" : "External_Rotation_with_Band",
+  "goal" : "muscle"
+}, {
+  "id" : "External_Rotation_with_Cable",
+  "goal" : "muscle"
+}, {
+  "id" : "Face_Pull",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Farmers_Walk",
+  "goal" : "endurance"
+}, {
+  "id" : "Fast_Skipping",
+  "goal" : "muscle"
+}, {
+  "id" : "Finger_Curls",
+  "goal" : "muscle"
+}, {
+  "id" : "Flat_Bench_Cable_Flyes",
+  "goal" : "muscle"
+}, {
+  "id" : "Flat_Bench_Leg_Pull-In",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Flat_Bench_Lying_Leg_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Flexor_Incline_Dumbbell_Curls",
+  "goal" : "flexibility"
+}, {
+  "id" : "Floor_Glute-Ham_Raise",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Floor_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Floor_Press_with_Chains",
+  "goal" : "muscle"
+}, {
+  "id" : "Flutter_Kicks",
+  "goal" : "endurance"
+}, {
+  "id" : "Foot-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Forward_Drag_with_Press",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Frankenstein_Squat",
+  "goal" : "flexibility"
+}, {
+  "id" : "Freehand_Jump_Squat",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Frog_Hops",
+  "goal" : "muscle"
+}, {
+  "id" : "Frog_Sit-Ups",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Barbell_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Barbell_Squat_To_A_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Box_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Cable_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Cone_Hops_or_hurdle_hops",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Dumbbell_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Incline_Dumbbell_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Leg_Raises",
+  "goal" : "flexibility"
+}, {
+  "id" : "Front_Plate_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Raise_And_Pullover",
+  "goal" : "flexibility"
+}, {
+  "id" : "Front_Squat_Clean_Grip",
+  "goal" : "flexibility"
+}, {
+  "id" : "Front_Squats_With_Two_Kettlebells",
+  "goal" : "muscle"
+}, {
+  "id" : "Front_Two-Dumbbell_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Full_Range-Of-Motion_Lat_Pulldown",
+  "goal" : "flexibility"
+}, {
+  "id" : "Gironda_Sternum_Chins",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Glute_Ham_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Glute_Kickback",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Goblet_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Good_Morning",
+  "goal" : "muscle"
+}, {
+  "id" : "Good_Morning_off_Pins",
+  "goal" : "muscle"
+}, {
+  "id" : "Gorilla_Chin_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Groin_and_Back_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Groiners",
+  "goal" : "flexibility"
+}, {
+  "id" : "Hack_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Hammer_Curls",
+  "goal" : "muscle"
+}, {
+  "id" : "Hammer_Grip_Incline_DB_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Hamstring-SMR",
+  "goal" : "flexibility"
+}, {
+  "id" : "Hamstring_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Handstand_Push-Ups",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Hang_Clean",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Hang_Clean_-_Below_the_Knees",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Hang_Snatch",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Hang_Snatch_-_Below_Knees",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Hanging_Bar_Good_Morning",
+  "goal" : "muscle"
+}, {
+  "id" : "Hanging_Leg_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Hanging_Pike",
+  "goal" : "flexibility"
+}, {
+  "id" : "Heaving_Snatch_Balance",
+  "goal" : "muscle"
+}, {
+  "id" : "Heavy_Bag_Thrust",
+  "goal" : "calisthenic"
+}, {
+  "id" : "High_Cable_Curls",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Hip_Circles_prone",
+  "goal" : "muscle"
+}, {
+  "id" : "Hip_Extension_with_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Hip_Flexion_with_Band",
+  "goal" : "muscle"
+}, {
+  "id" : "Hip_Lift_with_Band",
+  "goal" : "muscle"
+}, {
+  "id" : "Hug_A_Ball",
+  "goal" : "flexibility"
+}, {
+  "id" : "Hug_Knees_To_Chest",
+  "goal" : "flexibility"
+}, {
+  "id" : "Hurdle_Hops",
+  "goal" : "flexibility"
+}, {
+  "id" : "Hyperextensions_Back_Extensions",
+  "goal" : "muscle"
+}, {
+  "id" : "Hyperextensions_With_No_Hyperextension_Bench",
+  "goal" : "endurance"
+}, {
+  "id" : "IT_Band_and_Glute_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Iliotibial_Tract-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Inchworm",
+  "goal" : "flexibility"
+}, {
+  "id" : "Incline_Barbell_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Incline_Bench_Pull",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Incline_Cable_Chest_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Incline_Cable_Flye",
+  "goal" : "muscle"
+}, {
+  "id" : "Incline_Dumbbell_Bench_With_Palms_Facing_In",
+  "goal" : "muscle"
+}, {
+  "id" : "Incline_Dumbbell_Curl",
+  "goal" : "flexibility"
+}, {
+  "id" : "Incline_Dumbbell_Flyes",
+  "goal" : "muscle"
+}, {
+  "id" : "Incline_Dumbbell_Flyes_-_With_A_Twist",
+  "goal" : "muscle"
+}, {
+  "id" : "Incline_Dumbbell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Incline_Hammer_Curls",
+  "goal" : "flexibility"
+}, {
+  "id" : "Incline_Inner_Biceps_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Incline_Push-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Incline_Push-Up_Close-Grip",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Incline_Push-Up_Depth_Jump",
+  "goal" : "flexibility"
+}, {
+  "id" : "Incline_Push-Up_Medium",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Incline_Push-Up_Reverse_Grip",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Incline_Push-Up_Wide",
+  "goal" : "flexibility"
+}, {
+  "id" : "Intermediate_Groin_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Intermediate_Hip_Flexor_and_Quad_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Internal_Rotation_with_Band",
+  "goal" : "muscle"
+}, {
+  "id" : "Inverted_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Inverted_Row_with_Straps",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Iron_Cross",
+  "goal" : "endurance"
+}, {
+  "id" : "Iron_Crosses_stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Isometric_Chest_Squeezes",
+  "goal" : "muscle"
+}, {
+  "id" : "Isometric_Neck_Exercise_-_Front_And_Back",
+  "goal" : "muscle"
+}, {
+  "id" : "Isometric_Neck_Exercise_-_Sides",
+  "goal" : "muscle"
+}, {
+  "id" : "Isometric_Wipers",
+  "goal" : "muscle"
+}, {
+  "id" : "JM_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Jackknife_Sit-Up",
+  "goal" : "muscle"
+}, {
+  "id" : "Janda_Sit-Up",
+  "goal" : "muscle"
+}, {
+  "id" : "Jefferson_Squats",
+  "goal" : "muscle"
+}, {
+  "id" : "Jerk_Balance",
+  "goal" : "muscle"
+}, {
+  "id" : "Jerk_Dip_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Jogging_Treadmill",
+  "goal" : "endurance"
+}, {
+  "id" : "Keg_Load",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Arnold_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Dead_Clean",
+  "goal" : "flexibility"
+}, {
+  "id" : "Kettlebell_Figure_8",
+  "goal" : "endurance"
+}, {
+  "id" : "Kettlebell_Hang_Clean",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Kettlebell_One-Legged_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Pass_Between_The_Legs",
+  "goal" : "endurance"
+}, {
+  "id" : "Kettlebell_Pirate_Ships",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Pistol_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Seated_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Seesaw_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Sumo_High_Pull",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Kettlebell_Thruster",
+  "goal" : "fat_loss"
+}, {
+  "id" : "Kettlebell_Turkish_Get-Up_Lunge_style",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Turkish_Get-Up_Squat_style",
+  "goal" : "muscle"
+}, {
+  "id" : "Kettlebell_Windmill",
+  "goal" : "flexibility"
+}, {
+  "id" : "Kipping_Muscle_Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Knee_Across_The_Body",
+  "goal" : "flexibility"
+}, {
+  "id" : "Knee_Circles",
+  "goal" : "muscle"
+}, {
+  "id" : "Knee_Hip_Raise_On_Parallel_Bars",
+  "goal" : "muscle"
+}, {
+  "id" : "Knee_Tuck_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Kneeling_Arm_Drill",
+  "goal" : "endurance"
+}, {
+  "id" : "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
+  "goal" : "endurance"
+}, {
+  "id" : "Kneeling_Cable_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Kneeling_Forearm_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Kneeling_High_Pulley_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Kneeling_Hip_Flexor",
+  "goal" : "flexibility"
+}, {
+  "id" : "Kneeling_Jump_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Kneeling_Single-Arm_High_Pulley_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Kneeling_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Landmine_180s",
+  "goal" : "muscle"
+}, {
+  "id" : "Landmine_Linear_Jammer",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Lateral_Bound",
+  "goal" : "muscle"
+}, {
+  "id" : "Lateral_Box_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Lateral_Cone_Hops",
+  "goal" : "muscle"
+}, {
+  "id" : "Lateral_Raise_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Latissimus_Dorsi-SMR",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Leg-Over_Floor_Press",
+  "goal" : "flexibility"
+}, {
+  "id" : "Leg-Up_Hamstring_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Leg_Extensions",
+  "goal" : "muscle"
+}, {
+  "id" : "Leg_Lift",
+  "goal" : "muscle"
+}, {
+  "id" : "Leg_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Leg_Pull-In",
+  "goal" : "endurance"
+}, {
+  "id" : "Leverage_Chest_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Leverage_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Leverage_Decline_Chest_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Leverage_High_Row",
+  "goal" : "fat_loss"
+}, {
+  "id" : "Leverage_Incline_Chest_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Leverage_Iso_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Leverage_Shoulder_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Leverage_Shrug",
+  "goal" : "muscle"
+}, {
+  "id" : "Linear_3-Part_Start_Technique",
+  "goal" : "muscle"
+}, {
+  "id" : "Linear_Acceleration_Wall_Drill",
+  "goal" : "muscle"
+}, {
+  "id" : "Linear_Depth_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Log_Lift",
+  "goal" : "muscle"
+}, {
+  "id" : "London_Bridges",
+  "goal" : "endurance"
+}, {
+  "id" : "Looking_At_Ceiling",
+  "goal" : "flexibility"
+}, {
+  "id" : "Low_Cable_Crossover",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Low_Cable_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Low_Pulley_Row_To_Neck",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Lower_Back-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Lower_Back_Curl",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lunge_Pass_Through",
+  "goal" : "muscle"
+}, {
+  "id" : "Lunge_Sprint",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Bent_Leg_Groin",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lying_Cable_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Cambered_Barbell_Row",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Crossover",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lying_Dumbbell_Tricep_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Face_Down_Plate_Neck_Resistance",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Face_Up_Plate_Neck_Resistance",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Glute",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lying_Hamstring",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lying_High_Bench_Barbell_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Leg_Curls",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Machine_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_One-Arm_Lateral_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Lying_Prone_Quadriceps",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lying_Rear_Delt_Raise",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Lying_Supine_Dumbbell_Curl",
+  "goal" : "flexibility"
+}, {
+  "id" : "Lying_T-Bar_Row",
+  "goal" : "fat_loss"
+}, {
+  "id" : "Lying_Triceps_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Machine_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Machine_Bicep_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Machine_Preacher_Curls",
+  "goal" : "muscle"
+}, {
+  "id" : "Machine_Shoulder_Military_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Machine_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Medicine_Ball_Chest_Pass",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Medicine_Ball_Full_Twist",
+  "goal" : "muscle"
+}, {
+  "id" : "Medicine_Ball_Scoop_Throw",
+  "goal" : "muscle"
+}, {
+  "id" : "Middle_Back_Shrug",
+  "goal" : "muscle"
+}, {
+  "id" : "Middle_Back_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Mixed_Grip_Chin",
+  "goal" : "muscle"
+}, {
+  "id" : "Monster_Walk",
+  "goal" : "muscle"
+}, {
+  "id" : "Mountain_Climbers",
+  "goal" : "endurance"
+}, {
+  "id" : "Moving_Claw_Series",
+  "goal" : "endurance"
+}, {
+  "id" : "Muscle_Snatch",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Muscle_Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Narrow_Stance_Hack_Squats",
+  "goal" : "muscle"
+}, {
+  "id" : "Narrow_Stance_Leg_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Narrow_Stance_Squats",
+  "goal" : "muscle"
+}, {
+  "id" : "Natural_Glute_Ham_Raise",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Neck-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Neck_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Oblique_Crunches",
+  "goal" : "endurance"
+}, {
+  "id" : "Oblique_Crunches_-_On_The_Floor",
+  "goal" : "endurance"
+}, {
+  "id" : "Olympic_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "On-Your-Back_Quad_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "On_Your_Side_Quad_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "One-Arm_Dumbbell_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Flat_Bench_Dumbbell_Flye",
+  "goal" : "flexibility"
+}, {
+  "id" : "One-Arm_High-Pulley_Cable_Side_Bends",
+  "goal" : "endurance"
+}, {
+  "id" : "One-Arm_Incline_Lateral_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Clean",
+  "goal" : "endurance"
+}, {
+  "id" : "One-Arm_Kettlebell_Clean_and_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Floor_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Military_Press_To_The_Side",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Para_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Push_Press",
+  "goal" : "endurance"
+}, {
+  "id" : "One-Arm_Kettlebell_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Snatch",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Split_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Split_Snatch",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Kettlebell_Swings",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Long_Bar_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "One-Arm_Medicine_Ball_Slam",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Open_Palm_Kettlebell_Clean",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Overhead_Kettlebell_Squats",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Side_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Arm_Side_Laterals",
+  "goal" : "muscle"
+}, {
+  "id" : "One-Legged_Cable_Kickback",
+  "goal" : "muscle"
+}, {
+  "id" : "One_Arm_Against_Wall",
+  "goal" : "flexibility"
+}, {
+  "id" : "One_Arm_Chin-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "One_Arm_Dumbbell_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "One_Arm_Dumbbell_Preacher_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "One_Arm_Floor_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "One_Arm_Lat_Pulldown",
+  "goal" : "flexibility"
+}, {
+  "id" : "One_Arm_Pronated_Dumbbell_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "One_Arm_Supinated_Dumbbell_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "One_Half_Locust",
+  "goal" : "flexibility"
+}, {
+  "id" : "One_Handed_Hang",
+  "goal" : "flexibility"
+}, {
+  "id" : "One_Knee_To_Chest",
+  "goal" : "flexibility"
+}, {
+  "id" : "One_Leg_Barbell_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Open_Palm_Kettlebell_Clean",
+  "goal" : "muscle"
+}, {
+  "id" : "Otis-Up",
+  "goal" : "muscle"
+}, {
+  "id" : "Overhead_Cable_Curl",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Overhead_Lat",
+  "goal" : "flexibility"
+}, {
+  "id" : "Overhead_Slam",
+  "goal" : "muscle"
+}, {
+  "id" : "Overhead_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Overhead_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Overhead_Triceps",
+  "goal" : "flexibility"
+}, {
+  "id" : "Pallof_Press",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Pallof_Press_With_Rotation",
+  "goal" : "endurance"
+}, {
+  "id" : "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Palms-Down_Wrist_Curl_Over_A_Bench",
+  "goal" : "endurance"
+}, {
+  "id" : "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Parallel_Bar_Dip",
+  "goal" : "flexibility"
+}, {
+  "id" : "Pelvic_Tilt_Into_Bridge",
+  "goal" : "muscle"
+}, {
+  "id" : "Peroneals-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Peroneals_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Physioball_Hip_Bridge",
+  "goal" : "muscle"
+}, {
+  "id" : "Pin_Presses",
+  "goal" : "muscle"
+}, {
+  "id" : "Piriformis-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Plank",
+  "goal" : "endurance"
+}, {
+  "id" : "Plate_Pinch",
+  "goal" : "muscle"
+}, {
+  "id" : "Plate_Twist",
+  "goal" : "muscle"
+}, {
+  "id" : "Platform_Hamstring_Slides",
+  "goal" : "muscle"
+}, {
+  "id" : "Plie_Dumbbell_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Plyo_Kettlebell_Pushups",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Plyo_Push-up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Posterior_Tibialis_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Power_Clean",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Power_Clean_from_Blocks",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Power_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "Power_Partials",
+  "goal" : "muscle"
+}, {
+  "id" : "Power_Snatch",
+  "goal" : "muscle"
+}, {
+  "id" : "Power_Snatch_from_Blocks",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Power_Stairs",
+  "goal" : "endurance"
+}, {
+  "id" : "Preacher_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Preacher_Hammer_Dumbbell_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Press_Sit-Up",
+  "goal" : "endurance"
+}, {
+  "id" : "Prone_Manual_Hamstring",
+  "goal" : "muscle"
+}, {
+  "id" : "Prowler_Sprint",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Pull_Through",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Pullups",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Push-Up_Wide",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Push-Ups_-_Close_Triceps_Position",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Push-Ups_With_Feet_Elevated",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Push-Ups_With_Feet_On_An_Exercise_Ball",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Push_Press",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Push_Press_-_Behind_the_Neck",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Push_Up_to_Side_Plank",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Pushups",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Pushups_Close_and_Wide_Hand_Positions",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Pyramid",
+  "goal" : "flexibility"
+}, {
+  "id" : "Quad_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Quadriceps-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Quick_Leap",
+  "goal" : "muscle"
+}, {
+  "id" : "Rack_Delivery",
+  "goal" : "flexibility"
+}, {
+  "id" : "Rack_Pull_with_Bands",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Rack_Pulls",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Rear_Leg_Raises",
+  "goal" : "flexibility"
+}, {
+  "id" : "Recumbent_Bike",
+  "goal" : "endurance"
+}, {
+  "id" : "Return_Push_from_Stance",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Reverse_Band_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Band_Box_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Band_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Band_Power_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Band_Sumo_Deadlift",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Reverse_Barbell_Curl",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Reverse_Barbell_Preacher_Curls",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Cable_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Reverse_Flyes",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Flyes_With_External_Rotation",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Grip_Bent-Over_Rows",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Grip_Triceps_Pushdown",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Reverse_Hyperextension",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Machine_Flyes",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Plate_Curls",
+  "goal" : "muscle"
+}, {
+  "id" : "Reverse_Triceps_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Rhomboids-SMR",
+  "goal" : "muscle"
+}, {
+  "id" : "Rickshaw_Carry",
+  "goal" : "endurance"
+}, {
+  "id" : "Rickshaw_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Ring_Dips",
+  "goal" : "muscle"
+}, {
+  "id" : "Rocket_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Rocking_Standing_Calf_Raise",
+  "goal" : "flexibility"
+}, {
+  "id" : "Rocky_Pull-Ups_Pulldowns",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Romanian_Deadlift",
+  "goal" : "flexibility"
+}, {
+  "id" : "Romanian_Deadlift_from_Deficit",
+  "goal" : "flexibility"
+}, {
+  "id" : "Rope_Climb",
+  "goal" : "endurance"
+}, {
+  "id" : "Rope_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Rope_Jumping",
+  "goal" : "endurance"
+}, {
+  "id" : "Rope_Straight-Arm_Pulldown",
+  "goal" : "mental_clarity"
+}, {
+  "id" : "Round_The_World_Shoulder_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Rowing_Stationary",
+  "goal" : "endurance"
+}, {
+  "id" : "Runners_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Running_Treadmill",
+  "goal" : "endurance"
+}, {
+  "id" : "Russian_Twist",
+  "goal" : "endurance"
+}, {
+  "id" : "Sandbag_Load",
+  "goal" : "muscle"
+}, {
+  "id" : "Scapular_Pull-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Scissor_Kick",
+  "goal" : "endurance"
+}, {
+  "id" : "Scissors_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Band_Hamstring_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Barbell_Military_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Barbell_Twist",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Bent-Over_Rear_Delt_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Biceps",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Cable_Rows",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Seated_Cable_Shoulder_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Calf_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Calf_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Close-Grip_Concentration_Barbell_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Dumbbell_Curl",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Dumbbell_Inner_Biceps_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+  "goal" : "endurance"
+}, {
+  "id" : "Seated_Dumbbell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Flat_Bench_Leg_Pull-In",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Seated_Floor_Hamstring_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Front_Deltoid",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Glute",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Good_Mornings",
+  "goal" : "endurance"
+}, {
+  "id" : "Seated_Hamstring",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Hamstring_and_Calf_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Head_Harness_Neck_Resistance",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Leg_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Leg_Tucks",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_One-arm_Cable_Pulley_Rows",
+  "goal" : "endurance"
+}, {
+  "id" : "Seated_Overhead_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Palm-Up_Barbell_Wrist_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Palms-Down_Barbell_Wrist_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Side_Lateral_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Seated_Triceps_Press",
+  "goal" : "flexibility"
+}, {
+  "id" : "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
+  "goal" : "calisthenic"
+}, {
+  "id" : "See-Saw_Press_Alternating_Side_Press",
+  "goal" : "endurance"
+}, {
+  "id" : "Shotgun_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Shoulder_Circles",
+  "goal" : "muscle"
+}, {
+  "id" : "Shoulder_Press_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Shoulder_Raise",
+  "goal" : "flexibility"
+}, {
+  "id" : "Shoulder_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Side-Lying_Floor_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Side_Bridge",
+  "goal" : "endurance"
+}, {
+  "id" : "Side_Hop-Sprint",
+  "goal" : "muscle"
+}, {
+  "id" : "Side_Jackknife",
+  "goal" : "endurance"
+}, {
+  "id" : "Side_Lateral_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Side_Laterals_to_Front_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Side_Leg_Raises",
+  "goal" : "flexibility"
+}, {
+  "id" : "Side_Lying_Groin_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Side_Neck_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Side_Standing_Long_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Side_To_Side_Chins",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Side_Wrist_Pull",
+  "goal" : "flexibility"
+}, {
+  "id" : "Side_to_Side_Box_Shuffle",
+  "goal" : "muscle"
+}, {
+  "id" : "Single-Arm_Cable_Crossover",
+  "goal" : "muscle"
+}, {
+  "id" : "Single-Arm_Linear_Jammer",
+  "goal" : "endurance"
+}, {
+  "id" : "Single-Arm_Push-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Single-Cone_Sprint_Drill",
+  "goal" : "muscle"
+}, {
+  "id" : "Single-Leg_High_Box_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Single-Leg_Hop_Progression",
+  "goal" : "muscle"
+}, {
+  "id" : "Single-Leg_Lateral_Hop",
+  "goal" : "muscle"
+}, {
+  "id" : "Single-Leg_Leg_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Single-Leg_Stride_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Single_Dumbbell_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Single_Leg_Butt_Kick",
+  "goal" : "muscle"
+}, {
+  "id" : "Single_Leg_Glute_Bridge",
+  "goal" : "muscle"
+}, {
+  "id" : "Single_Leg_Push-off",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Sit-Up",
+  "goal" : "muscle"
+}, {
+  "id" : "Sit_Squats",
+  "goal" : "flexibility"
+}, {
+  "id" : "Skating",
+  "goal" : "endurance"
+}, {
+  "id" : "Sled_Drag_-_Harness",
+  "goal" : "muscle"
+}, {
+  "id" : "Sled_Overhead_Backward_Walk",
+  "goal" : "endurance"
+}, {
+  "id" : "Sled_Overhead_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Sled_Push",
+  "goal" : "endurance"
+}, {
+  "id" : "Sled_Reverse_Flye",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Sled_Row",
+  "goal" : "endurance"
+}, {
+  "id" : "Sledgehammer_Swings",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Incline_Shoulder_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Behind_the_Back_Shrug",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Bent_Over_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Smith_Machine_Calf_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Close-Grip_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Decline_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Hang_Power_Clean",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Hip_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Incline_Bench_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Leg_Press",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Smith_Machine_One-Arm_Upright_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Overhead_Shoulder_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Pistol_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Reverse_Calf_Raises",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Stiff-Legged_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Machine_Upright_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "Smith_Single-Leg_Split_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Snatch",
+  "goal" : "muscle"
+}, {
+  "id" : "Snatch_Balance",
+  "goal" : "muscle"
+}, {
+  "id" : "Snatch_Deadlift",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Snatch_Pull",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Snatch_Shrug",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Snatch_from_Blocks",
+  "goal" : "muscle"
+}, {
+  "id" : "Speed_Band_Overhead_Triceps",
+  "goal" : "muscle"
+}, {
+  "id" : "Speed_Box_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Speed_Squats",
+  "goal" : "muscle"
+}, {
+  "id" : "Spell_Caster",
+  "goal" : "muscle"
+}, {
+  "id" : "Spider_Crawl",
+  "goal" : "muscle"
+}, {
+  "id" : "Spider_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Spinal_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Split_Clean",
+  "goal" : "muscle"
+}, {
+  "id" : "Split_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "Split_Jump",
+  "goal" : "endurance"
+}, {
+  "id" : "Split_Snatch",
+  "goal" : "muscle"
+}, {
+  "id" : "Split_Squat_with_Dumbbells",
+  "goal" : "muscle"
+}, {
+  "id" : "Split_Squats",
+  "goal" : "flexibility"
+}, {
+  "id" : "Squat_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "Squat_with_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Squat_with_Chains",
+  "goal" : "muscle"
+}, {
+  "id" : "Squat_with_Plate_Movers",
+  "goal" : "muscle"
+}, {
+  "id" : "Squats_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Stairmaster",
+  "goal" : "endurance"
+}, {
+  "id" : "Standing_Alternating_Dumbbell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Barbell_Calf_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Barbell_Press_Behind_Neck",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+  "goal" : "endurance"
+}, {
+  "id" : "Standing_Biceps_Cable_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Biceps_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Bradford_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Cable_Chest_Press",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Standing_Cable_Lift",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Standing_Cable_Wood_Chop",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Calf_Raises",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Concentration_Curl",
+  "goal" : "mental_clarity"
+}, {
+  "id" : "Standing_Dumbbell_Calf_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Dumbbell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Dumbbell_Reverse_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Dumbbell_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Dumbbell_Upright_Row",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Elevated_Quad_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Front_Barbell_Raise_Over_Head",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Gastrocnemius_Calf_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Hamstring_and_Calf_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Hip_Circles",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Hip_Flexors",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Inner-Biceps_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Lateral_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Leg_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Long_Jump",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Low-Pulley_Deltoid_Raise",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Standing_Military_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Olympic_Plate_Hand_Squeeze",
+  "goal" : "endurance"
+}, {
+  "id" : "Standing_One-Arm_Cable_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_One-Arm_Dumbbell_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Overhead_Barbell_Triceps_Extension",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Palm-In_One-Arm_Dumbbell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Palms-In_Dumbbell_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Pelvic_Tilt",
+  "goal" : "muscle"
+}, {
+  "id" : "Standing_Rope_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Standing_Soleus_And_Achilles_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Toe_Touches",
+  "goal" : "flexibility"
+}, {
+  "id" : "Standing_Towel_Triceps_Extension",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Standing_Two-Arm_Overhead_Throw",
+  "goal" : "flexibility"
+}, {
+  "id" : "Star_Jump",
+  "goal" : "endurance"
+}, {
+  "id" : "Step-up_with_Knee_Raise",
+  "goal" : "muscle"
+}, {
+  "id" : "Step_Mill",
+  "goal" : "endurance"
+}, {
+  "id" : "Stiff-Legged_Barbell_Deadlift",
+  "goal" : "flexibility"
+}, {
+  "id" : "Stiff-Legged_Dumbbell_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Stiff_Leg_Barbell_Good_Morning",
+  "goal" : "muscle"
+}, {
+  "id" : "Stomach_Vacuum",
+  "goal" : "muscle"
+}, {
+  "id" : "Straight-Arm_Dumbbell_Pullover",
+  "goal" : "flexibility"
+}, {
+  "id" : "Straight-Arm_Pulldown",
+  "goal" : "mental_clarity"
+}, {
+  "id" : "Straight_Bar_Bench_Mid_Rows",
+  "goal" : "muscle"
+}, {
+  "id" : "Straight_Raises_on_Incline_Bench",
+  "goal" : "muscle"
+}, {
+  "id" : "Stride_Jump_Crossover",
+  "goal" : "muscle"
+}, {
+  "id" : "Sumo_Deadlift",
+  "goal" : "muscle"
+}, {
+  "id" : "Sumo_Deadlift_with_Bands",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Sumo_Deadlift_with_Chains",
+  "goal" : "muscle"
+}, {
+  "id" : "Superman",
+  "goal" : "muscle"
+}, {
+  "id" : "Supine_Chest_Throw",
+  "goal" : "flexibility"
+}, {
+  "id" : "Supine_One-Arm_Overhead_Throw",
+  "goal" : "muscle"
+}, {
+  "id" : "Supine_Two-Arm_Overhead_Throw",
+  "goal" : "muscle"
+}, {
+  "id" : "Suspended_Fallout",
+  "goal" : "endurance"
+}, {
+  "id" : "Suspended_Push-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Suspended_Reverse_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Suspended_Row",
+  "goal" : "endurance"
+}, {
+  "id" : "Suspended_Split_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Svend_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "T-Bar_Row_with_Handle",
+  "goal" : "muscle"
+}, {
+  "id" : "Tate_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "The_Straddle",
+  "goal" : "flexibility"
+}, {
+  "id" : "Thigh_Abductor",
+  "goal" : "muscle"
+}, {
+  "id" : "Thigh_Adductor",
+  "goal" : "muscle"
+}, {
+  "id" : "Tire_Flip",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Toe_Touchers",
+  "goal" : "endurance"
+}, {
+  "id" : "Torso_Rotation",
+  "goal" : "muscle"
+}, {
+  "id" : "Trail_Running_Walking",
+  "goal" : "endurance"
+}, {
+  "id" : "Trap_Bar_Deadlift",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Tricep_Dumbbell_Kickback",
+  "goal" : "muscle"
+}, {
+  "id" : "Tricep_Side_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Triceps_Overhead_Extension_with_Rope",
+  "goal" : "flexibility"
+}, {
+  "id" : "Triceps_Pushdown",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Triceps_Pushdown_-_Rope_Attachment",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Triceps_Pushdown_-_V-Bar_Attachment",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Triceps_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Tuck_Crunch",
+  "goal" : "endurance"
+}, {
+  "id" : "Two-Arm_Dumbbell_Preacher_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Two-Arm_Kettlebell_Clean",
+  "goal" : "muscle"
+}, {
+  "id" : "Two-Arm_Kettlebell_Jerk",
+  "goal" : "muscle"
+}, {
+  "id" : "Two-Arm_Kettlebell_Military_Press",
+  "goal" : "muscle"
+}, {
+  "id" : "Two-Arm_Kettlebell_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Underhand_Cable_Pulldowns",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Upper_Back-Leg_Grab",
+  "goal" : "flexibility"
+}, {
+  "id" : "Upper_Back_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Upright_Barbell_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Upright_Cable_Row",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Upright_Row_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Upward_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "V-Bar_Pulldown",
+  "goal" : "flexibility"
+}, {
+  "id" : "V-Bar_Pullup",
+  "goal" : "endurance"
+}, {
+  "id" : "Vertical_Swing",
+  "goal" : "muscle"
+}, {
+  "id" : "Walking_Treadmill",
+  "goal" : "endurance"
+}, {
+  "id" : "Weighted_Ball_Hyperextension",
+  "goal" : "endurance"
+}, {
+  "id" : "Weighted_Ball_Side_Bend",
+  "goal" : "muscle"
+}, {
+  "id" : "Weighted_Bench_Dip",
+  "goal" : "muscle"
+}, {
+  "id" : "Weighted_Crunches",
+  "goal" : "endurance"
+}, {
+  "id" : "Weighted_Jump_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Weighted_Pull_Ups",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Weighted_Sissy_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Weighted_Sit-Ups_-_With_Bands",
+  "goal" : "muscle"
+}, {
+  "id" : "Weighted_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Wide-Grip_Barbell_Bench_Press",
+  "goal" : "flexibility"
+}, {
+  "id" : "Wide-Grip_Decline_Barbell_Bench_Press",
+  "goal" : "flexibility"
+}, {
+  "id" : "Wide-Grip_Decline_Barbell_Pullover",
+  "goal" : "flexibility"
+}, {
+  "id" : "Wide-Grip_Lat_Pulldown",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Wide-Grip_Pulldown_Behind_The_Neck",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Wide-Grip_Rear_Pull-Up",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Wide-Grip_Standing_Barbell_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Wide_Stance_Barbell_Squat",
+  "goal" : "muscle"
+}, {
+  "id" : "Wide_Stance_Stiff_Legs",
+  "goal" : "flexibility"
+}, {
+  "id" : "Wind_Sprints",
+  "goal" : "endurance"
+}, {
+  "id" : "Windmills",
+  "goal" : "flexibility"
+}, {
+  "id" : "Worlds_Greatest_Stretch",
+  "goal" : "flexibility"
+}, {
+  "id" : "Wrist_Circles",
+  "goal" : "calisthenic"
+}, {
+  "id" : "Wrist_Roller",
+  "goal" : "endurance"
+}, {
+  "id" : "Wrist_Rotations_with_Straight_Bar",
+  "goal" : "endurance"
+}, {
+  "id" : "Yoke_Walk",
+  "goal" : "muscle"
+}, {
+  "id" : "Zercher_Squats",
+  "goal" : "muscle"
+}, {
+  "id" : "Zottman_Curl",
+  "goal" : "muscle"
+}, {
+  "id" : "Zottman_Preacher_Curl",
+  "goal" : "muscle"
+} ]
